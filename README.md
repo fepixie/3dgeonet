@@ -1,9 +1,10 @@
-## Geonet x Google Earth API
+# Geonet x Google Earth API
 
-FORMAT: 1A
+
+
 HOST: http://www.pixieplots.co.nz/shit/q/kml.php
 
-# 3DGeonet
+## 3DGeonet
 
 Retreive Quake data from Geonet and format as 3D kml for google earth
 
