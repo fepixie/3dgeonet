@@ -8,7 +8,8 @@ Use the URL and parameters below as a 'Network Link' in Google earth
 
 HOST: http://www.pixieplots.co.nz/shit/q/kml.php
 
-## Quakes [/{?start,end,magmin,magmax,depthLower,depthUpper,setbounds,boundsv}]
+## Quakes 
+[/{?start,end,magmin,magmax,depthLower,depthUpper,setbounds,boundsv}]
 
 + Parameters
     + start  (optional) - start date - 
